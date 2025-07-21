@@ -1,6 +1,6 @@
 # SAED-LLM: Semantic Annotation for Energy Data using ensemble decision-making with Large Language Models
 
-This is official repo for "SAED-LLM: Semanti Annotatio for Energy Data using ensemble decision-making with Large Language Models" by anonymous organizations, anonymous departments, anonymous authors.
+This is official repo for "SAED-LLM: Semanti Annotatio for Energy Data using ensemble decision-making with Large Language Models".
 
 
 ## Python Environment Setup
