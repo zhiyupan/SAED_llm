@@ -1,0 +1,8 @@
+mode: 'llm'
+k: 5
+max_depth: 2
+outputs:
+  logs:
+    dir: 'outputs/logs/llm'
+  results:
+    dir: 'outputs/results/llm'

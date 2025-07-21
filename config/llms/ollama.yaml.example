@@ -1,0 +1,4 @@
+name: "ollama"
+base_url: "example.ollama.com"
+model: "llama3.1:8b"
+temperature: 0.0

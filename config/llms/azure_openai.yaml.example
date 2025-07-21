@@ -1,0 +1,6 @@
+name: "azure_openai"
+endpoint: "https://example.azure.openai.com"
+api_key: "API_KEY"
+deployment_name: "gpt-4o-mini"
+api_version: "2024-02-15-preview"
+temperature: 0.0

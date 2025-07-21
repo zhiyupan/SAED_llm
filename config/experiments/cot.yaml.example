@@ -1,0 +1,8 @@
+mode: 'cot'
+k: 5
+max_depth: 2
+outputs:
+  logs:
+    dir: 'outputs/logs/cot'
+  results:
+    dir: 'outputs/results/cot'

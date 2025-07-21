@@ -1,0 +1,4 @@
+defaults:
+  - data: beo
+  - llms: ollama
+  - experiments: ollama_experiment

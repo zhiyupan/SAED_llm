@@ -1,0 +1,6 @@
+ontology:
+  path: "data/ontology/BEO_clean.rdf"
+tables:
+  path: "data/tables/synthetic"
+labels:
+  path: "data/labels/synthetic"

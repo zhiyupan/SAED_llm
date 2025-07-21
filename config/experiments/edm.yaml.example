@@ -1,0 +1,11 @@
+mode: 'edm'
+k: 5
+max_depth: 2
+avg_classes_per_agent: 30
+avg_agents_per_class: 3
+consensus_threshold_ratio: 0.8
+outputs:
+  logs:
+    dir: 'outputs/logs/edm'
+  results:
+    dir: 'outputs/results/edm'
